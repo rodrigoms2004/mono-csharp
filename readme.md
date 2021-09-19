@@ -58,3 +58,6 @@ Take a look at *cshap/lists-example.cs*
 https://msdn.microsoft.com/en-us/library/system.systemexception.aspx
 
 
+### Structure types
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct
