@@ -51,3 +51,8 @@ https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?re
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/generic-methods
 
 Take a look at *cshap/lists-example.cs*
+
+
+### Exception Class
+
+https://msdn.microsoft.com/en-us/library/system.systemexception.aspx
