@@ -1,0 +1,11 @@
+PAYSLIP FOR DEC 2010
+====================
+Name of Staff: John
+Hours Worked: 4566
+
+Basic Pay: $136,980.00
+Overtime: $68,293.00
+
+====================
+Total Pay: $136,980.00
+====================

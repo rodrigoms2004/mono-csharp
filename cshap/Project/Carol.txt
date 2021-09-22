@@ -1,0 +1,11 @@
+PAYSLIP FOR DEC 2010
+====================
+Name of Staff: Carol
+Hours Worked: 1
+
+Basic Pay: $30.00
+Overtime: $0.00
+
+====================
+Total Pay: $30.00
+====================
